@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(/assets/images/firewatch-campo-santo-kholmy-vid-les-igra-peizazh-gory-poz-7.jpeg);
+}
+.tela{
+    width: 100vw;
+    height: 100vh;
+}
+#corpo {
+    margin-left: 10vw;
+    margin-top: 10%;
+    width: 80vw;
+    height: 70vh;
+    display: flex;
+    background-color: rgb(120, 95, 238);
+}
+.conteudo {
+    height: 100%;
+    width: 50%;
+}
+.login {
+    border-radius: 150px 0px 0px 150px;
+    height: 100%;
+    width: 50%; 
+    background: white;
+
+}
+.imagem {
+    margin-top: 8vw;
+    margin-left: 8vw;
+    width: 50%;
+    height: 25%;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.texto {
+    margin-left: 4%;
+    text-align: left;
+    margin-top: 20%;
+    color: black;
+}
+#titulo {
+    margin-top: 6vw;
+    margin-left: 12vw;
+}
+#logina {
+    margin-top: 10%;
+    margin-left: 20%;
+}
+h2 {
+    margin-left: 26%;
+    padding-bottom: 4%;
+}
+#recuperacao {
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+#blogin {
+    width: 130px;
+    height: 50px;
+    margin-left: 37%;
+    margin-bottom: 6%;
+}
+#blogin:hover {
+    background-color: rgb(255, 0, 0);
+}
+#criar {
+    text-align: center;
+}
+input {
+    margin-left: 34%;
+}
