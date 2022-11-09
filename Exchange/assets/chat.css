@@ -5,3 +5,25 @@
 body{
     background-image: url(/Exchange/assets/images/firewatch-campo-santo-kholmy-vid-les-igra-peizazh-gory-poz-7.jpeg);
 }
+#telaDeFundo{
+    background-color: purple;
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+    border-radius: 5%;
+}
+#mensagem{
+    display: flex;
+    margin-top: 395%;
+    margin-left: 5%;
+    width: 295%;
+    height: 3%;
+    background-color: black;
+    border: none;
+    border-radius: 30px;
+}
+#send{
+    
+}
