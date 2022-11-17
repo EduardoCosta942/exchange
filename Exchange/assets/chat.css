@@ -18,12 +18,22 @@ body{
     display: flex;
     margin-top: 395%;
     margin-left: 5%;
-    width: 295%;
+    width: 325%;
     height: 3%;
     background-color: black;
     border: none;
     border-radius: 30px;
+    color: white;
 }
 #send{
-    
+    display: flex;
+    margin-top: -19%;
+    margin-left: 335%;
+    background-color: purple;
+    width: 70%;
+    height: 5%;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
 }
