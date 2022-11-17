@@ -1,0 +1,23 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoCosta942/exchange.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoCosta942/exchange/issues"
+  },
+  "homepage": "https://github.com/EduardoCosta942/exchange#readme",
+  "dependencies": {
+    "socket.io": "^4.5.3"
+  }
+}
