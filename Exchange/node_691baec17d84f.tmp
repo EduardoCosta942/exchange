@@ -1,0 +1,8 @@
+var app = require("http").createServer(resposta);
+app.listen(9494);
+console.log("A aplicação está em execução...")
+function resposta(req, res){
+    res.WriteHead(200);
+    req.end("O server foi criado e funcionando normalmente!");
+};
+console.log("teste");
