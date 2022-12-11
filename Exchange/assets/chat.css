@@ -7,18 +7,18 @@ body{
 }
 #telaDeFundo{
     background-color: purple;
-    width: 40%;
+    width: 60%;
     height: 80vh;
     display: flex;
     margin-top: 5%;
-    margin-left: 5%;
+    margin-left: 17%;
     border-radius: 5%;
 }
 #mensagem{
     display: flex;
     margin-top: 395%;
     margin-left: 5%;
-    width: 325%;
+    width: 525%;
     height: 3%;
     background-color: black;
     border: none;
@@ -28,7 +28,7 @@ body{
 #send{
     display: flex;
     margin-top: -19%;
-    margin-left: 335%;
+    margin-left: 535%;
     background-color: purple;
     width: 70%;
     height: 5%;
@@ -36,4 +36,10 @@ body{
     background-color: black;
     color: white;
     border-radius: 30px;
+}
+#version{
+    position: absolute;
+    left: 93%;
+    top: 97%;
+    width: 7%;
 }
